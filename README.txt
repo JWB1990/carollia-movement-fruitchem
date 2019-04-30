@@ -18,3 +18,7 @@ Data from: Fruit secondary compounds mediate the retention time of seeds in the 
 Dryad Digital Repository. https://doi.org/10.5061/dryad.51q1p
 
 6) "wibke_table.csv" - available here
+
+This repository is archived on Zenodo.
+
+[![DOI](https://zenodo.org/badge/184317388.svg)](https://zenodo.org/badge/latestdoi/184317388)
