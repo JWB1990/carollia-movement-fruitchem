@@ -21,4 +21,4 @@ Dryad Digital Repository. https://doi.org/10.5061/dryad.51q1p
 
 This repository is archived on Zenodo.
 
-[![DOI](https://zenodo.org/badge/184317388.svg)](https://zenodo.org/badge/latestdoi/184317388)
+https://doi.org/10.5281/zenodo.2655026
